@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environments and tooling
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+
+# Training outputs and local datasets
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.npz
+*.npy
+data/
+datasets/
+checkpoints/
+outputs/
+runs/
